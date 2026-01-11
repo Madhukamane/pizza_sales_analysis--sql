@@ -6,11 +6,13 @@ The analysis covers basic, intermediate, and advanced SQL queries to understand 
 
 The project demonstrates hands-on experience in data analysis, SQL querying, and business insight generation, making it suitable for entry-level Data Analyst / SQL Analyst roles.
 
+
 **🛠 Tools & Technologies**
 
 SQL (MySQL)
 
 GitHub
+
 
 **📂 Dataset Description**
 
@@ -27,6 +29,7 @@ pizza_types
 These tables are connected using primary and foreign keys and were joined to perform meaningful analysis.
 
 **📊 Analysis Performed**
+
 
 **🔹 Basic Analysis**
 
@@ -60,6 +63,7 @@ Cumulative revenue analysis over time
 
 Top 3 pizza types by revenue within each category
 
+
 **🧠 SQL Concepts Used**
 
 INNER JOIN
@@ -75,6 +79,7 @@ Window functions
 Date and time functions
 
 Sorting and filtering
+
 
 **📸 Sample Query Outputs**
 
@@ -101,11 +106,11 @@ Screenshots below show actual query execution and results, validating the analys
 **📁 Project Structure**
 
 pizza-sales-sql-analysis/
-│
-├── README.md                    # Project documentation
-├── pizza_sales_analysis.sql     # SQL queries with answers
-├── questions.txt                # Business questions solved
-├── pizza_sales_solution         # Query output screenshots
+├── README.md
+├── pizza_sales_analysis.sql
+├── questions.txt
+└── outputs/
+
 
 **🚀 Key Insights**
 
@@ -116,6 +121,7 @@ Clear peak hours indicate strong customer demand patterns
 Certain categories consistently outperform others
 
 Revenue shows steady growth over time
+
 
 **🎯 Skills Demonstrated**
 
@@ -128,6 +134,7 @@ Data aggregation and trend analysis
 Query optimization
 
 Analytical thinking
+
 
 **📌 Conclusion**
 
