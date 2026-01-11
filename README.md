@@ -1,4 +1,5 @@
 🍕 Pizza Sales SQL Analysis
+
 📌 Project Overview
 
 This project analyzes pizza sales data using SQL to answer real-world business questions.
@@ -83,7 +84,7 @@ Sorting and filtering
 
 **📸 Sample Query Outputs**
 
-Screenshots below show actual query execution and results, validating the analysis.
+Screenshots below show actual query results, validating the analysis.
 
 🔹 Total Revenue Generated
 
