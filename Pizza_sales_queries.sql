@@ -5,7 +5,11 @@ select * from pizzahut.pizzas;
 select * from pizzahut.order_details;
 select * from pizzahut.pizza_types;
 
-#Basic:
+
+
+                                        ---Basic:
+
+
 #1.Retrieve the total number of orders placed.
 
 SELECT 
